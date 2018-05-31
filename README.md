@@ -1,2 +1,2 @@
-# fjosito.github.io
-Mi primer sitio WEB
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
